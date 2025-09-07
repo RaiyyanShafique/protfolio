@@ -1,12 +1,13 @@
 # 📄 Resume - Md Raiyyan Shafique
 
 ## 👤 Personal Information
+ <img width="770" height="729" alt="Image" src="https://github.com/user-attachments/assets/0dcca257-1e2a-4b7c-b8f0-d86826d38b72" />
+
 - **Name:** Md Raiyyan Shafique  
 - **Email:** [raiyyanshafique18@gmail.com](mailto:raiyyanshafique18@gmail.com)  
 - **Phone:** +91 91429 58654  
-- **Location:** Chaibasa, Jharkhand
-- Attach the image <img width="770" height="729" alt="Image" src="https://github.com/user-attachments/assets/0dcca257-1e2a-4b7c-b8f0-d86826d38b72" />
-
+- **Location:** Chaibasa, Jharkhad
+- 
 ---
 
 ## 🎓 Education
