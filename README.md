@@ -13,23 +13,7 @@ Welcome to the **<span style="color:#007BFF;">Project Title</span>** repository!
 
 <br>
 
-## <span style="color:#FFC107;">Features</span>
-
-* **<span style="color:#FFC107;">Feature 1:</span>** A detailed description of the first feature.
-* **<span style="color:#FFC107;">Feature 2:</span>** A detailed description of the second feature.
-* **<span style="color:#FFC107;">Feature 3:</span>** A detailed description of the third feature.
-
-<br>
-
-## <span style="color:#DC3545;">Getting Started</span>
-
-To get a local copy up and running, follow these steps.
-
-### <span style="color:#6C757D;">Prerequisites</span>
-
-Make sure you have `Node.js` installed.
-```bash
-npm install npm@latest -g# 📄 Resume - Md Raiyyan Shafique
+ 📄 Resume - Md Raiyyan Shafique
 
 ## 👤 Personal Information
  <img width="770" height="729" alt="Image" src="https://github.com/user-attachments/assets/0dcca257-1e2a-4b7c-b8f0-d86826d38b72" />
