@@ -1,17 +1,4 @@
-# <span style="color:#007BFF;">Project Title</span>
 
-![Colorful Banner](https://via.placeholder.com/1200x200/007BFF/FFFFFF?text=Project+Banner)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" alt="Status Badge">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License Badge">
-</p>
-
-## <span style="color:#28A745;">Introduction</span>
-
-Welcome to the **<span style="color:#007BFF;">Project Title</span>** repository! This project aims to <span style="color:#28A745;">[briefly describe the project's purpose]</span>.
-
-<br>
 
  📄 Resume - Md Raiyyan Shafique
 
