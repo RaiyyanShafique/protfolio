@@ -1,6 +1,4 @@
-
-
- 📄 Resume - Md Raiyyan Shafique
+#PORTFOLIO
 
 ## 👤 Personal Information
  <img width="770" height="729" alt="Image" src="https://github.com/user-attachments/assets/0dcca257-1e2a-4b7c-b8f0-d86826d38b72" />
@@ -41,4 +39,4 @@
 To leverage my technical and problem-solving skills to grow as a software developer and contribute to innovative projects.  
 
 ---
-# protfolio
+
