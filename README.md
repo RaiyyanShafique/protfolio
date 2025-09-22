@@ -1,7 +1,7 @@
 #PORTFOLIO
 
 ## 👤 Personal Information
- <img width="7oo" height="700" alt="Image" src="https://github.com/user-attachments/assets/0dcca257-1e2a-4b7c-b8f0-d86826d38b72" />
+ <img width="770" height="729" alt="Image" src="https://github.com/user-attachments/assets/0dcca257-1e2a-4b7c-b8f0-d86826d38b72" />
 
 - **Name:** Md Raiyyan Shafique  
 - **Email:** [raiyyanshafique18@gmail.com](mailto:raiyyanshafique18@gmail.com)  
